@@ -1,0 +1,15 @@
+CRITICAL - 2023-08-29 22:18:58 --> Return value of App\Controllers\Home::teste() must be of the type string, none returned
+in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-29 22:20:13 --> Invalid file: "TesteViews/conteudo_message.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('TesteViews/conteudo_message.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('TesteViews/conteudo_message.php', [], true)
+ 3 APPPATH\Controllers\Home.php(15): view('TesteViews/conteudo_message.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->conteudo()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

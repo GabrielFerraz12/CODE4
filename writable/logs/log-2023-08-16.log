@@ -1,0 +1,82 @@
+CRITICAL - 2023-08-16 22:27:47 --> Invalid file: "teste_message.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teste_message.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('teste_message', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('teste_message')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 22:29:08 --> Invalid file: "teste_message.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teste_message.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('teste_message', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('teste_message')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 22:30:03 --> Invalid file: "teste_message.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teste_message.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('teste_message', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('teste_message')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 22:30:14 --> Invalid file: "teste_message.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teste_message.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('teste_message', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('teste_message')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 22:30:22 --> Invalid file: "teste_message.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teste_message.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('teste_message', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('teste_message')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 22:30:48 --> Invalid file: "teste_message.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teste_message.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('teste_message', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('teste_message')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 22:33:26 --> Invalid file: "teste_message.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teste_message.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('teste_message', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('teste_message')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 22:33:28 --> Invalid file: "teste_message.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teste_message.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('teste_message', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('teste_message')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 22:43:19 --> Call to undefined function base_path()
+in APPPATH\Views\TesteViews\header_message.php on line 6.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('TesteViews/header_message.php', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('TesteViews/header_message.php')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->teste()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
