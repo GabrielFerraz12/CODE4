@@ -1,0 +1,52 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    top: 0;
+    left: 0;
+    margin: 0;
+}
+
+.header_ol {
+    border-bottom: 1px solid black;
+}
+
+.header_ol li {
+    list-style: none;
+    display: inline;
+    margin-right: 2%;
+}
+
+.header_ol li a {
+    text-decoration: none;
+    color: black;
+    transition: 0.5s ease-in;
+}
+
+.header_ol li a:hover {
+    background-color: black;
+    color: white;
+    padding: 0.3%;
+}
+
+.contato, .informacoes {
+    width: 50%;
+    height: 220px;
+    float: left;
+}
+
+.btn_deletar {
+    width: 30px;
+    height: auto;
+    background-color: #06f;
+    text-decoration: none;
+    color: #fff;
+    border: solid #000 1px;
+    border-radius: 10px;
+    padding: 0.2%;
+}
+
+.rodape {
+    text-align: center;
+}
